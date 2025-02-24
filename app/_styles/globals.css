@@ -48,3 +48,11 @@
   --rdp-background-color: theme("colors.accent.600") !important;
   margin: 0 !important;
 }
+
+.rdp-months {
+  justify-content: center !important;
+}
+
+.rdp-nav {
+  display: none !important;
+}
