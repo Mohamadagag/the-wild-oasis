@@ -1,6 +1,5 @@
 import Link from "next/link";
 import { auth } from "../_lib/auth";
-import { CiMenuBurger } from "react-icons/ci";
 
 export default async function Navigation() {
   const session = await auth();
